@@ -1,0 +1,77 @@
+
+
+body {
+    background-color: hsl(242, 32%, 15%);
+}
+h1 {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+h4 {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+h5 {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+h6 {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+a {
+    color : white;
+    text-align: left;
+    padding-left: 5%;
+    font-family: 'Roboto', sans-serif;
+}
+/* <uniquifier>: Use a unique and descriptive class name */
+/* <weight>: Use a value from 100 to 900 */
+
+.roboto {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:  "wdth" 100;
+}
+.header {
+    background-color: hsl(242, 32%, 15%);
+    padding: 20px;
+    text-align: left;
+}
+.socials {
+    background-color: hsl(190, 32%, 15%);
+    background-position: center top;
+    border-radius: 10px;
+    padding: 2%;
+    text-align: left;
+    max-height: auto;
+    max-width: 50%;
+}
