@@ -75,3 +75,13 @@ a {
     max-height: auto;
     max-width: 50%;
 }
+
+.sidebar {
+    background-color: hsl(190, 32%, 15%);
+    background-position: left;
+    border-radius: 10px;
+    padding: 2%;
+    text-align: left;
+    max-height: auto;
+    max-width: 50%;
+}
