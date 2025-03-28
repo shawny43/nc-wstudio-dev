@@ -1,4 +1,4 @@
-# nc-wstudio-dev
+# nc-wstudio-dev - An indie hobby project that build a website based on a dynamic script for a static page.
 Developpement version of Wolfshards Studio website dedicated to Neocities. 
 # THIS IS THE DEV BRANCH FOR EARLY TESTER FOR THE WEBSITE
 ## :warning: This repo is not ready for use, see details for more informations.
